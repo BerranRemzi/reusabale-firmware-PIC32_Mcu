@@ -1,0 +1,30 @@
+
+[TODO list]
+
+0. add USB to Bootloader
+1. port for PIC32MK1024MCM064
+2. I2C_hw - hardware version
+3. I2C_sw - software version
+4. SPI_sw  - software version check
+5. UART_sw - software version
+6. LIN_hw - hardware version
+7. LIN_sw - software version
+9. ADC2 - second class
+10. DMA - make dma support
+11. DAC -SPI - stream
+
+
+[ONMCU specific] 
+STREAM - streaming
+SCANCHAIN1,2,3 - add parameters
+SCANCHAIN - additional parameters 
+
+[ONMCU hardware]
+
+1. DAC - to streaming FSYNC pin remap
+2. USB module poer from +5V
+
+
+
+
+

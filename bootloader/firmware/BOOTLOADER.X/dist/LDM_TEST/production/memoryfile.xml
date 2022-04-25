@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/LDM_TEST/production/BOOTLOADER.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>62336</length>                 
+      <used>16168</used>                     
+      <free>46168</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>1500</used>                     
+      <free>522788</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

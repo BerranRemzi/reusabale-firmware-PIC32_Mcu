@@ -1,0 +1,8 @@
+-. scanchain1 - just test probably fix something
+-. scanchain2 - todo
+-. ADC - 
+-. BOOTLOADER - integrate, check
+-. AOUT - module
+-. I2C -module
+-. TCAP module
+-. HWSPI

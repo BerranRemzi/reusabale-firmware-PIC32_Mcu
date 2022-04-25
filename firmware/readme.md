@@ -1,0 +1,7 @@
+RELAYS - ok
+DIO - ok
+SCANCHAIN1 - ok 
+SCANCHAIN2 - ok
+UNISEQUENCER - ok
+GENCLK - ok
+SWSPI - ???

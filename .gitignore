@@ -1,0 +1,10 @@
+*.idl
+*.obj
+*.o
+*.d
+*.bak
+*.c.*
+moc*.cpp
+ui*.h
+*user.*
+*.flag
